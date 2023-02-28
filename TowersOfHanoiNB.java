@@ -26,7 +26,7 @@ public class TowersOfHanoiNB {
 
    public static void main(String args[])
    {
-      int i = 5; 
+      int i = 4; 
       towersOfHanoi(i, 'A', 'C', 'B');
       
    } // end of main
